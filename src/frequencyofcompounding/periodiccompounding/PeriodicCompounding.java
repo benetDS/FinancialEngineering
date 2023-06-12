@@ -1,4 +1,4 @@
-package frequencyofcompounding.PeriodicCompounding;
+package frequencyofcompounding.periodiccompounding;
 
 import java.math.BigDecimal;
 import java.util.HashMap;
